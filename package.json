@@ -1,0 +1,1 @@
+{"dependencies":{"x402-seatbelt":"^0.1.0"},"description":"Compose the x402-seatbelt spending guard with RelayShield counterparty screening for x402 agent payments","keywords":["x402","agents","payments","threat-intel","relayshield"],"license":"MIT","main":"guard.js","name":"relayshield-x402-seatbelt-example","scripts":{"demo":"node demo.js"},"type":"module","version":"1.0.0"}
